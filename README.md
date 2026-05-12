@@ -16,7 +16,7 @@ A multi-feature task management REST API built with Laravel, featuring user auth
 
 - PHP / Laravel
 - Laravel Sanctum
-- MySQL
+- PostgreSQL
 - Eloquent ORM
 
 ## Installation
